@@ -1,0 +1,9 @@
+# Disallow all crawlers access to certain pages.
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /login/
+
+Sitemap: https://startup-university.com/sitemap.xml
