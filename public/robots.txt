@@ -6,4 +6,4 @@ User-agent: *
 Allow: /
 Disallow: /login/
 
-Sitemap: https://startup-university.com/sitemap.xml
+Sitemap: https://chadvogel.com/sitemap.xml
